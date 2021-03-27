@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/ErezLevip/fx-medium-example/cache"
+	"github.com/kenshin579/analzying-fx-medium-example/cache"
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttprouter"
 	"go.uber.org/zap"

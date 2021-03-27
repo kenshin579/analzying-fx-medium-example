@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ErezLevip/fx-medium-example/cache"
-	"github.com/ErezLevip/fx-medium-example/handlers"
 	"github.com/go-redis/redis"
+	"github.com/kenshin579/analzying-fx-medium-example/cache"
+	"github.com/kenshin579/analzying-fx-medium-example/handlers"
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttprouter"
 	"go.uber.org/fx"
